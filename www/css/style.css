@@ -1,0 +1,27 @@
+/**/
+
+.subtitle {
+    background-color: #6699FF;
+    color: #FFFFFF;
+    border-radius:2px;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 0 5px;
+}
+.regdate {
+    font-size: 12px;
+    color: #000066;
+}
+.subjects {
+    font-size: 25px;
+    font-weight: bold;
+}
+.litem {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#feffff+0,e2edff+80,a0d8ef+100 */
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top,  #ffffff 0%, #e2edff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #ffffff 0%,#e2edff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #ffffff 0%,#e2edff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e2edff',GradientType=0 ); /* IE6-9 */
+
+}
